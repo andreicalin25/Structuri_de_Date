@@ -1,0 +1,2 @@
+Pentru 15 valori, toate numere mici (<=99), avem urmatoarele rezultate:
+55 2 57 78 9 57 52 46 70 23 13 2 5 2 5
